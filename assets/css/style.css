@@ -1,0 +1,7 @@
+:root {
+	--color-primary-100: #f0f4ff;
+}
+
+.element {
+	background-color: var(--color-primary-100);
+}
